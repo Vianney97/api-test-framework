@@ -1,0 +1,4 @@
+[
+  { "title": "hello world", "body": "from api tests", "userId": 1 },
+  { "title": "post 2",      "body": "content 2",      "userId": 2 }
+]
